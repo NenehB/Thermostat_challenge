@@ -1,5 +1,7 @@
 describe("Thermostat", function() {
 
+  // let thermostat; 
+
   beforeEach(function(){
     thermostat = new Thermostat();
   });
